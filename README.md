@@ -1,2 +1,2 @@
 # my-settings
-My settings for important softwares
+Settings for important software I use.
